@@ -1,3 +1,3 @@
 # KUKU-Messenger-App
 
-<image src="kukulogo2.png"/>
+<image src="task17-Kukuapp.png"/>
